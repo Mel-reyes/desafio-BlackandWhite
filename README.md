@@ -1,7 +1,7 @@
 # Desafío - Black and White
 ## Descripción
 
-En este desafío, pongo a prueba mis habilidades en el procesamiento de imágenes utilizando JIMP y en la descarga e instalación de aplicaciones. Para completarlo con éxito, necesité aplicar mis conocimientos en la manipulación de imágenes utilizando la biblioteca JIMP, así como comprender cómo descargar e instalar aplicaciones de manera eficiente
+En este desafío, pongo a prueba mis habilidades en el procesamiento de imágenes mediante el uso de JIMP y en la descarga e instalación de aplicaciones. Para completarlo con éxito, he tenido que aplicar mis conocimientos en la manipulación de imágenes con la biblioteca JIMP, así como comprender cómo descargar e instalar aplicaciones de manera eficiente.
 ## Tecnologías Utilizadas
 - NODE
 ## Requerimientos
